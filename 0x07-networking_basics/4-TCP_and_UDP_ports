@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#About UDP and TCP ports
+netstat -l --program
